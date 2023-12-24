@@ -103,7 +103,10 @@ header.shadow .logo{
 .logo span{
     color: var(--second-color);
 }
-
+.logo2 img{
+    margin-right: 1rem;
+    height: 2em;
+}
 .login{
     padding: 8px 14px;
     text-transform: uppercase;
@@ -471,10 +474,7 @@ footer p{
     .nav{
         padding: 10px 0;
     }
-    .logo2{
-        padding: 10px 0;
-
-    }
+    
 
     section{
         padding: 2rem 0 !important;
